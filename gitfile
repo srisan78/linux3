@@ -3,3 +3,5 @@ git checkout -b new-feature main
 git checkout feature
 
 git merge master
+
+git push origin master
